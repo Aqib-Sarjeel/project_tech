@@ -1,0 +1,40 @@
+body{
+
+    background-image: url(../background.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100%;
+   width: 100%;
+   opacity: .8;
+   background-position: center;
+}
+html{
+    height: 100%;
+}
+h2{
+    text-align: center;
+    padding-top:100px;
+    padding-right: 50%;
+    color: cornsilk;
+}
+h3{
+    padding-left: 170px;
+    color: cornsilk;
+}
+h1{
+    color: cornsilk;
+    padding-left: 270px;
+}
+
+ @media(max-width:768px){
+     h3{
+     
+         padding-left: 15px;
+     }
+     h1{
+
+         padding-left: 95px;
+     }
+    
+
+ }
