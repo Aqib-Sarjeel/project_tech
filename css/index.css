@@ -24,6 +24,34 @@ h3{
 h1{
     color: cornsilk;
     padding-left: 270px;
+
+}
+#login{
+    min-width: 250px;
+     background-color:rgb(255, 255, 255, .7);
+     padding: 14 14 0;
+}
+.btn-fb{
+    color: #fff;
+    background-color:#3b599d;
+}
+.btn-tw{
+    color: #fff;
+    background-color:#55acee;
+    margin-left: 20px;
+}
+.social-button{
+    margin-left: 33px;
+}
+
+
+
+
+
+
+
+
+
 }
 
  @media(max-width:768px){
